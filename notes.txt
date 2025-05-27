@@ -10,5 +10,19 @@ goals:
         - focus on the first 6
         - assign spots to groups based on
             - projection, distance to implant
+
+summary:
+- clustered spots by distance for acute stimulated (4A, [row 2 in fig2 of pub])
+- recorded log normalized expression of gene(sets) and averaged by distance clustered
+    - see google sheets
+- screenshotted
+    - control/acute expression spot by visium
+    - distribution of expression over distance
+- uploaded cloupe files to lab folder on google drive
+
+next steps
+- do simple linear reg of expression for the gene(sets) recorded
+- update Ryan and Erin on result
+
         
     
