@@ -1,0 +1,14 @@
+# 05-27-2025
+experiment: model gene expression as a function of spatial distance from implant site
+goals:
+    - load data into loupe browser
+        - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202425
+    - get a few sig. diff. exp. genes to analyze from publication
+        - https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.937923/full#h7
+        - Fig2
+        - see acute_stim_de_genes.tsv
+        - focus on the first 6
+        - assign spots to groups based on
+            - projection, distance to implant
+        
+    
