@@ -1,3 +1,6 @@
+# 05-29-2025
+goal: do simple lin reg of genes in table
+
 # 05-27-2025
 experiment: model gene expression as a function of spatial distance from implant site
 goals:
